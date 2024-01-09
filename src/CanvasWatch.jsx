@@ -6,15 +6,7 @@ import Watch from "./Watch";
 
 import React, { useRef} from 'react';
 
-
-
-
-
 import {motion} from "framer-motion"
-
-
-
-
   
 function CanvasWatch(props){
  

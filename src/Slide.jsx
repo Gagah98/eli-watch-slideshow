@@ -3,7 +3,6 @@ import { useState } from "react";
 import Button from "./Button";
 import { motion } from "framer-motion";
 import CanvasWatch from "./CanvasWatch";
-import CanvasWatchNew from "./CanvasWatchNew";
 import watches from "./assets/watches";
 
 const containerVariants1 = {
