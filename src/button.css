@@ -1,0 +1,31 @@
+.button-container{
+    padding:15px 12px;
+    background: var(--LB-blue, #244571);
+    width:160px;
+    position:relative;
+    overflow:hidden;
+    cursor: pointer;
+}
+
+.button-text{
+    color:whitesmoke;
+    position: absolute;
+    top:0;
+    left:0;
+    margin:0;
+    text-align: center;
+    width:100%;
+}
+
+.overflow-button-container{
+    position:relative;
+    height:20px;
+   overflow:hidden;
+}
+.button-bg-fill{
+    background-color: #775253;
+    position:absolute;
+    width:100%;
+    height:100%;
+    inset:0;
+}
